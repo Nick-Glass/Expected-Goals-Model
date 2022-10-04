@@ -871,5 +871,5 @@ Comparing this models average expected goals difference of 2.12 to Natural Stat 
 
 # Conclusion:
 
-Comparing the model created in this project to other public models such as evolving hockey's model, Harry Shomer's model, and Patrick Bacon's model, it can be seen that this model has a higher area under the curve with a value of r Training_Step_AUC for the training set and r Step_2022_AUC for the 2022 prediction. The log loss for this model is comparable with other public models with a value of r Training_Step_LL for the training data and a value of r Step_2022_LL for the 2022 expected goals prediction. Overall this model is better at predicting expected goals and includes a wider range of variables than most public models.
+Comparing the model created in this project to other public models such as evolving hockey's model, Harry Shomer's model, and Patrick Bacon's model, it can be seen that this model has a higher area under the curve with a value of 0.8214 for the training set and  0.8144 for the 2022 prediction. The log loss for this model is comparable with other public models with a value of 0.2029 for the training data and a value of 0.2122 for the 2022 expected goals prediction. Overall this model is better at predicting expected goals and includes a wider range of variables than most public models.
   
